@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OQ+dFOQqSoo4VGtkP+mTcP2j0fEsgZ5C843I3zVpz2RTEFbJquG35pLmH9yoLJXE/NsE5j9bI/lMMxNoiqA91g==",
+  "success": true,
+  "projectFilePath": "/Library/UIC/Sem - 4(Spring 24)/CS 341/Project/P_4/P_4.fsproj",
+  "expectedPackageFiles": [
+    "/Users/aaryan/.nuget/packages/fsharp.core/8.0.200/fsharp.core.8.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
